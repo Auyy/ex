@@ -1,0 +1,12 @@
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/bin/Debug/netcoreapp3.1/Lab01Calculator.deps.json
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/bin/Debug/netcoreapp3.1/Lab01Calculator.runtimeconfig.json
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/bin/Debug/netcoreapp3.1/Lab01Calculator.runtimeconfig.dev.json
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/bin/Debug/netcoreapp3.1/Lab01Calculator.dll
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/bin/Debug/netcoreapp3.1/Lab01Calculator.pdb
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.csprojAssemblyReference.cache
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.AssemblyInfoInputs.cache
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.AssemblyInfo.cs
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.csproj.CoreCompileInputs.cache
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.dll
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.pdb
+/Users/tangkwa/Projects/Lab01Calculator/Lab01Calculator/obj/Debug/netcoreapp3.1/Lab01Calculator.genruntimeconfig.cache
